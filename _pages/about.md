@@ -7,7 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-This portfolio website of Ruben Bosschaert is still under construction. For any information, try contacting through email or linkedin. The links to perform these actions should be on the left side of the screen
+This portfolio website of Ruben Bosschaert is still under construction. For any information, try contacting through email or linkedin. The links to perform these actions should be on the left side of the screen. The rest of this page is still part of a template and needs updating :)
+
+
+
+
+
+
+
+======
+
 
 
 
